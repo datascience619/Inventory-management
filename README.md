@@ -26,5 +26,6 @@ An intelligent inventory management application built with **Python**, **Tkinter
 * Retail stores needing real-time alerts
 * Warehouses tracking product flow and demand
 
-📸 Screenshots *(optional)*
+
+
 
